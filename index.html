@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Product Management</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <h2>Cadastrar Produto</h2>
+            <form id="productForm">
+            <label for="productName">Nome do Produto:</label>
+            <input type="text" id="productName" required>
+            
+            <label for="productDescription">Descrição do Produto:</label>
+            <input type="text" id="productDescription" required>
+            
+            <label for="productValue">Valor do Produto:</label>
+            <input type="number" id="productValue" required>
+            
+            <label for="productAvailability">Disponível para venda:</label>
+            <select id="productAvailability" required>
+                <option value="yes">Sim</option>
+                <option value="no">Não</option>
+            </select>
+            
+            <button type="submit">Cadastrar</button>
+            </form>
+            
+            <h2>Listagem de Produtos</h2>
+            <button id="addProductBtn">Adicionar Produto</button>
+            <ul id="productList"></ul>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
