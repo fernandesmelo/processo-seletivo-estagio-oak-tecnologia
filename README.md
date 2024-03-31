@@ -2,8 +2,7 @@
 
 Criei esse [Layout]( https://fernandesmelo.github.io/criacao-de-layout/) através do processo seletivo para vaga de estágio em desenvolvimento de software da [Oak Tecnologia](https://www.linkedin.com/company/oak-tecnologia/).
 
-[screen-capture.webm](https://github.com/fernandesmelo/processo-seletivo-estagio-oak/assets/113717317/6c8097f7-25ac-4484-a5ad-d65abd1cecd5)
-
+[screen-capture.webm](https://github.com/fernandesmelo/processo-seletivo-estagio-oak-tecnologia/assets/113717317/04118c63-b93c-449a-9033-382c88946afb)
 
 ##  📝 Sobre o Desafio- Descrição
 𝐂𝐚𝐝𝐚𝐬𝐭𝐫𝐨:
