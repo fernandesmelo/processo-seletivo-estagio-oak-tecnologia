@@ -72,4 +72,3 @@ Próximos passos...
 ## ✒️ Autor
 
 * **Laércio Fernandes** - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes/)
-# processo-seletivo-estagio-oak-tecnologia
